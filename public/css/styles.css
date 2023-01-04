@@ -409,7 +409,7 @@ footer .copyright {
     }
 
     main section .products article {
-        width: 48%;
+        width: 47%;
     }
 
     footer .caracteries {
@@ -419,7 +419,7 @@ footer .copyright {
 
 @media (min-width: 802px) {
     main section .products article {
-        width: 23%;
+        width: 24%;
     }
 
     header div.logo {
