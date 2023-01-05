@@ -69,13 +69,6 @@ header .form .input {
     padding: 2px;
 }
 
-header .form .submit {
-    background-color: #fff;
-    border: 1px solid #000;
-    color: #666;
-    width: 10%;
-}
-
 header div.top-header p {
     width: 100%;
     text-align: center;
